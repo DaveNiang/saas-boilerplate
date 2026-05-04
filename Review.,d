@@ -1,0 +1,14 @@
+doc-1 : ok
+doc-2 : ko -> en attente de revision 
+doc-3 : ko -> en attente de revision 
+doc-4 : ok
+doc-5 : ko -> en attente de revision 
+doc-6 : ko -> en attente de revision 
+doc-7 : ko -> en attente de revision 
+doc-8 : ko -> en attente de revision 
+diagrames :
+    architecture : ko -> en attente de revision 
+    data-flow : ko -> en attente de revision 
+    deployement : ko -> en attente de revision 
+-----
+
